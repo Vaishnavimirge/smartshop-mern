@@ -19,6 +19,17 @@ The app demonstrates core e-commerce features like browsing products, viewing pr
 
 ---
 
+
+## 📸 Screenshots 
+![WhatsApp Image 2025-09-09 at 08 56 03_96ca14b9](https://github.com/user-attachments/assets/7e5f8c55-cc90-44b7-9053-624a968c4e5f)
+![WhatsApp Image 2025-09-09 at 08 57 22_8b06e168](https://github.com/user-attachments/assets/eac63d72-0435-4994-970f-6941d9f00dae)
+![WhatsApp Image 2025-09-09 at 08 58 42_23179c76](https://github.com/user-attachments/assets/ae18268a-0f4a-4ff0-8a75-2b23ab494623)
+
+![WhatsApp Image 2025-09-09 at 08 59 19_be6f0f09](https://github.com/user-attachments/assets/2c6e7aa2-d0d2-4e8d-bfc5-c314cc8bb6ce)
+![WhatsApp Image 2025-09-09 at 08 59 37_57328bd9](https://github.com/user-attachments/assets/2010ab82-a2e0-40ed-9c8e-fa0a6a0622e8)
+
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, React Router, Context API, CSS
@@ -121,14 +132,6 @@ Frontend runs at **[http://localhost:5173](http://localhost:5173)** (Vite)
 Backend runs at **[http://localhost:5000](http://localhost:5000)**
 
 ---
-
-## 📸 Screenshots 
-![WhatsApp Image 2025-09-09 at 08 56 03_96ca14b9](https://github.com/user-attachments/assets/7e5f8c55-cc90-44b7-9053-624a968c4e5f)
-![WhatsApp Image 2025-09-09 at 08 57 22_8b06e168](https://github.com/user-attachments/assets/eac63d72-0435-4994-970f-6941d9f00dae)
-![WhatsApp Image 2025-09-09 at 08 58 42_23179c76](https://github.com/user-attachments/assets/ae18268a-0f4a-4ff0-8a75-2b23ab494623)
-
-![WhatsApp Image 2025-09-09 at 08 59 19_be6f0f09](https://github.com/user-attachments/assets/2c6e7aa2-d0d2-4e8d-bfc5-c314cc8bb6ce)
-![WhatsApp Image 2025-09-09 at 08 59 37_57328bd9](https://github.com/user-attachments/assets/2010ab82-a2e0-40ed-9c8e-fa0a6a0622e8)
 
 
 
